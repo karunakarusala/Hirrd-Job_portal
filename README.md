@@ -8,7 +8,7 @@ A simple and efficient job portal built using the **MERN stack** to help users f
 - **Backend:** Express.js, MongoDB, RESTful APIs
 - **Tools:** Postman for API testing
 
-![Job_portal Interface](Frontend/public/images/Job_portal.png)
+![Job_portal Interface](public/images/Job_portal.png)
 
 
 
